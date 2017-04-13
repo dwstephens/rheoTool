@@ -36,6 +36,7 @@ See the [user-guide](https://github.com/fppimenta/rheoTool/tree/master/doc).
 [RheoTool] is using the following third-party packages:
 
 * [Eigen](http://eigen.tuxfamily.org/). 
+* The 'Eigen' library is available on most linux distributions. For example, on OpenSUSE LEAP 42.2, the "eigen3-devel" package can be installed. The library will be then made available in '/user/include/eigen3' (export the variable EIGEN_RHEO with this path before compiling RheoTool).
 
 ## Screenshots
 
